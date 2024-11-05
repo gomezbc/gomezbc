@@ -1,7 +1,7 @@
 # 💫 About Me:
 🙇🏻 I am a student of Computer Science at the University of the Basque Country. I am passionate about technology and Cloud Computing. I love learning and experimenting with new technologies.
 
-🌱 I’m currently learning AWS, DevOps, Microservices and Go<br>
+🌱 I’m currently learning Infrastructure, DevOps, Microservices and Go<br>
 
 
 ## 🌐 Socials:
